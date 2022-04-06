@@ -487,7 +487,7 @@ StartBot = () => {
                               .addField('stop', '**Stop Script**', true)
                               .addField('restart', '**Restart Script**', true)
                               .addField('refresh', '**Refresh Scripts**', true)
-                              .addField('Devloper :', '**^AF^&nimaism**', true)
+                              .addField('Devloper :', '**^AF^&^HM^**\n<@900342630825742397>&<@919510117777539132>', true)
                               // .addField('bannedplayers', '**Show Banned Players**', true)
                               // .addField('ban', '**Ban Player**', true)
                               // .addField('checkban', '**Check Ban For Player**', true)
