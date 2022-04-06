@@ -1,0 +1,13 @@
+{
+     "token": "",
+     "prefix": "",
+     "prefixdevloper": "",
+     "admin_roleid": "",
+     "devloper_roleid": "",
+	"guildId": "",
+     "identifier": "license",
+     "wipe_tables": [{
+          "table": "users",
+          "owner": "id"
+     }]
+}

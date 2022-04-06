@@ -1,0 +1,36 @@
+{
+  "name": "AF-servermanbot",
+  "version": "2.0.0",
+  "description": "Server Man Bot From ^AF^#8585",
+  "main": "bot.js",
+  "dependencies": {
+    "async-limiter": "^1.0.1",
+    "asynckit": "^0.4.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "discord-api-types": "^0.29.0",
+    "discord-fivem-api": "^1.0.6",
+    "discord.js": "^12.0.0-dev",
+    "form-data": "^2.5.1",
+    "gamedig": "^4.0.2",
+    "mime-db": "^1.51.0",
+    "mime-types": "^2.1.34",
+    "node-fetch": "^2.6.6",
+    "pako": "^1.0.11",
+    "prism-media": "^1.3.3",
+    "setimmediate": "^1.0.5",
+    "tr46": "^0.0.3",
+    "ts-mixer": "^6.0.1",
+    "tslib": "^2.3.1",
+    "tweetnacl": "^1.0.3",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0",
+    "ws": "^6.2.2",
+    "zod": "^3.14.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
