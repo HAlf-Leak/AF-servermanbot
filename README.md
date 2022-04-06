@@ -27,7 +27,6 @@
 - Can Refresh Source
 
 # Images
-<a href="https://github.com/HAlf-Leak"><img src="https://cdn.discordapp.com/icons/920627820932235284/48898ab892b9546e4ca334f7bde6800e.webp?size=96" alt="image" border="0"></a>
 ![image](https://cdn.discordapp.com/attachments/913177190609338459/961244507578466324/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/913177190609338459/961244914233016320/unknown.png)
 
