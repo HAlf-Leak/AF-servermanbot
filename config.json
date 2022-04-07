@@ -5,6 +5,7 @@
      "admin_roleid": "",
      "devloper_roleid": "",
 	"guildId": "",
+     "server_name ": "", 
      "identifier": "license",
      "wipe_tables": [{
           "table": "users",
