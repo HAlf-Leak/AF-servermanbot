@@ -46,6 +46,7 @@ add_ace resource.AF-servermanbot command.start allow
 add_ace resource.AF-servermanbot command.ensure allow
 add_ace resource.AF-servermanbot command.stop allow
 add_ace resource.AF-servermanbot command.refresh allow
+add_ace resource.AF-servermanbot command.restart allow
 ```
 
 ## Config.json
