@@ -37,7 +37,7 @@ StartBot = () => {
                RefreshBot = false;
           }
           exports['AF-servermanbot'].GetConfig(config);
-          client.user.setActivity('Half Leak Rp ✅', {type: 'WATCHING'});
+          client.user.setActivity(config.server_name+' ✅', {type: 'WATCHING'});
      })
 
      client.on('message', msg => {
