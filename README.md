@@ -1,5 +1,5 @@
 # Fivem Server Management Bot By AFshAr
-
+https://discord.gg/CMTrnZcweu
 # Features
 - Can Check Player Info
 - Can Check Player Account
