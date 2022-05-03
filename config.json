@@ -1,11 +1,11 @@
 {
-     "token": "",
-     "prefix": "",
-     "prefixdevloper": "",
-     "admin_roleid": "",
-     "devloper_roleid": "",
-	"guildId": "",
-     "server_name ": "", 
+     "token": "BOT_TOKEN",
+     "prefix": "BOT_PERFIX",
+     "prefixdevloper": "BIT_DEVLOPER_PERFIX",
+     "admin_roleid": "ADMIN_DISCORD_ROLE_ID",
+     "devloper_roleid": "DEVLOPER_DISCORD_ROLE_ID",
+	"guildId": "SERVER_ID",
+     "server_name": "SERVER_NAME", 
      "identifier": "license",
      "wipe_tables": [{
           "table": "users",
